@@ -1,3 +1,3 @@
 
-* [首页](readme.md) 
-* [统计知识](/statistics/readme.md)
+* [首页](README.md) 
+* [统计知识](statistics/statistics_readme.md) 
